@@ -1,0 +1,11 @@
+# Node.js modules
+#-----------------------------------
+node_modules
+
+# IDE and editor configs
+#-----------------------------------
+.vscode
+
+# environment variable
+#-----------------------------------
+.env
